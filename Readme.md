@@ -31,8 +31,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Aspirina180mg/tic-tAIc-toe">
+    <img src="IMG/logo.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">tic-tAIc-toe</h3>
@@ -40,14 +40,15 @@
 <p align="center">
     Tic-Tac-Toe game with AI learning, it begins playing randomly, but after some rounds, it learns the playing style of the user and counter plays accoringly, it also has a global learning, with wich it learns from all the user instances.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://github.com/aspirina180mg/tic-tAIc-toe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/aspirina180mg/tic-tAIc-toe">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/aspirina180mg/tic-tAIc-toe/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/aspirina180mg/tic-tAIc-toe/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -95,11 +96,11 @@ The player can choose to play against local or global AI:
 
 ### Built With
 
-* [Python][https://www.python.org/]
-* [Kivy][Vue-url]
-* [AI (?)][Angular-url]
-* [Fast API][[FastAPI (tiangolo.com)](https://fastapi.tiangolo.com/)]
-* [Render][https://render.com/]
+* [Python](https://www.python.org/)
+* [Kivy](https://kivy.org/)
+* [AI (?)](https://www.google.com/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [Render](https://render.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,8 +108,13 @@ The player can choose to play against local or global AI:
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+<> This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+```
+
+```
+
 
 ### Prerequisites
 
