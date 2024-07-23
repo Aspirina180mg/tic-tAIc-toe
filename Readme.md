@@ -95,7 +95,6 @@ The player can choose to play against local or global AI:
 
 ### Built With
 
-
 * [Python][https://www.python.org/]
 * [Kivy][Vue-url]
 * [AI (?)][Angular-url]
