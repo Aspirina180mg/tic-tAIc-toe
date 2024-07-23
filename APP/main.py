@@ -1,0 +1,1 @@
+# La aplicación de Kivy que maneja la interfaz del usuario

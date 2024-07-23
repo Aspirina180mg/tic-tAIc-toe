@@ -1,0 +1,1 @@
+# Lista las dependencias necesarias para la aplicación.

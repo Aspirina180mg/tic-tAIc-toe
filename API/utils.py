@@ -1,0 +1,1 @@
+# Contiene funciones auxiliares para cargar y actualizar el diccionario global.

@@ -1,0 +1,1 @@
+# Archivo global donde se almacena el aprendizaje total.
