@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aspirina180mg/tic-tAIc-toe">
-    <img src="IMG/logo.png" width="150" height="150">
+    <img src="IMG/Logo.png" width="150" height="150">
   </a>
 
 <h3 align="center">tic-tAIc-toe</h3>
