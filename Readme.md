@@ -1,7 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
-`<a id="readme-top"></a>`
-
+<a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -10,8 +9,9 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- PROJECT SHIELDS -->
 
+
+<!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
@@ -20,15 +20,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[Contributors][contributors-url]
-[Forks][forks-url]
-[Stargazers][stars-url]
-[Issues][issues-url]
-[MIT License][license-url]
-[LinkedIn][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- PROJECT LOGO -->
-
 <br />
 <div align="center">
   <a href="https://github.com/Aspirina180mg/tic-tAIc-toe">
@@ -39,7 +39,6 @@
 
 <p align="center">
     Tic-Tac-Toe game with AI learning, it begins playing randomly, but after some rounds, it learns the playing style of the user and counter plays accoringly, it also has a global learning, with wich it learns from all the user instances.
-    <br />
     <br />
     <a href="https://github.com/aspirina180mg/tic-tAIc-toe"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,8 +51,9 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
+
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -79,9 +79,12 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 
+
+<!-- ABOUT THE PROJECT -->
 ## About The Project
+
+[![tic-tAIc-toe Screen Shot][product-screenshot]](https://example.com)
 
 Tic-Tac-Toe game with AI learning, it begins playing randomly, but after some rounds, it learns the playing style of the user and counter plays accoringly, it also has a global learning, with wich it learns from all the user instances.
 
@@ -96,38 +99,41 @@ The player can choose to play against local or global AI:
 
 ### Built With
 
-* [Python](https://www.python.org/)
-* [Kivy](https://kivy.org/)
-* [AI (?)](https://www.google.com/)
-* [FastAPI](https://fastapi.tiangolo.com/)
-* [Render](https://render.com/)
+* [![Python][Python.org]][Python-url]
+* [![Kivy][Kivy.org]][Kivy-url]
+* [![AI (?)][AI.com]][AI-url]
+* [![FastAPI][fastapi.tiangolo.com]][Fastapi-url]
+* [![Render][render.com]][Render-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
-<> This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Work in progress...
 
-```
-
-```
+<!--This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.-->
 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Work in progress...
+
+<!--This is an example of how to list things you need to use the software and how to install them.
 
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ```-->
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+Work in progress...
+
+<!--1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/Aspirina180mg/tic-tAIc-toe.git
@@ -139,22 +145,23 @@ This is an example of how to list things you need to use the software and how to
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-   ```
+   ```-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Work in progress...
+
+<!--Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-
 ## Roadmap
 
 - [ ] API Creation
@@ -175,10 +182,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] integration with API, allowing for global gameplay with update
   - [ ] creation of final UI and assets, preffered dark mode, light mode maybe implemented.
 
+See the [open issues](https://github.com/aspirina180mg/tic-tAIc-toe/issues) for a full list of proposed features (and known issues).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
+
+<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -194,8 +204,9 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
+
+<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -203,17 +214,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-
 ## Contact
 
-Misael García Torres -  misagtor@gmail.com
+Misael García Torres [LinkedIN](https://www.linkedin.com/in/mgarciat/)- misagtor@gmail.com
 
 Project Link: [https://github.com/Aspirina180mg/tic-tAIc-toe](https://github.com/Aspirina180mg/tic-tAIc-toe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
 
+
+<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * []()
@@ -223,7 +234,6 @@ Project Link: [https://github.com/Aspirina180mg/tic-tAIc-toe](https://github.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/Aspirina180mg/tic-tAIc-toe.svg?style=for-the-badge
@@ -238,20 +248,16 @@ Project Link: [https://github.com/Aspirina180mg/tic-tAIc-toe](https://github.com
 [license-url]: https://github.com/Aspirina180mg/tic-tAIc-toe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mgarciat
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+
+[product-screenshot]: IMG/screenshot.png
+
+[Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://https://www.python.org/
+[Kivy.org]: https://img.shields.io/badge/Kivy-333?style=for-the-badge&logo=kivy&logoColor=white
+[kivy-url]: https://kivy.org/
+[AI.com]: https://img.shields.io/badge/AI-00BFFF?style=for-the-badge&logo=ai&logoColor=white
+[AI-url]: https://www.google.com/
+[Fastapi.tiangolo.com]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[Fastapi-url]: https://fastapi.tiangolo.com/
+[Render.com]: https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+[Render-url]: https://render.com/
