@@ -216,7 +216,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Misael García Torres [LinkedIN](https://www.linkedin.com/in/mgarciat/)- misagtor@gmail.com
+Misael García Torres [LINKEDIN](https://www.linkedin.com/in/mgarciat/)- misagtor@gmail.com
 
 Project Link: [https://github.com/Aspirina180mg/tic-tAIc-toe](https://github.com/Aspirina180mg/tic-tAIc-toe)
 
