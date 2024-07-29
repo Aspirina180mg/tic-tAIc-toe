@@ -1,1 +1,3 @@
 # Lista las dependencias necesarias para la API.
+fastapi
+uvicorn

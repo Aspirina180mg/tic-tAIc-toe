@@ -1,6 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
-<a id="readme-top"></a>
+`<a id="readme-top"></a>`
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -9,9 +10,8 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
+
 <!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
@@ -20,15 +20,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[Contributors][contributors-url]
+[Forks][forks-url]
+[Stargazers][stars-url]
+[Issues][issues-url]
+[MIT License][license-url]
+[LinkedIn][linkedin-url]
 
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://github.com/Aspirina180mg/tic-tAIc-toe">
@@ -51,9 +51,8 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -79,9 +78,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![tic-tAIc-toe Screen Shot][product-screenshot]](https://example.com)
@@ -99,24 +97,22 @@ The player can choose to play against local or global AI:
 
 ### Built With
 
-* [![Python][Python.org]][Python-url]
-* [![Kivy][Kivy.org]][Kivy-url]
-* [![AI (?)][AI.com]][AI-url]
-* [![FastAPI][fastapi.tiangolo.com]][Fastapi-url]
-* [![Render][render.com]][Render-url]
+* [Python][Python-url]
+* [Kivy][Kivy-url]
+* [AI (?)][AI-url]
+* [FastAPI][Fastapi-url]
+* [Render][Render-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Work in progress...
 
 <!--This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.-->
-
 
 ### Prerequisites
 
@@ -150,8 +146,8 @@ Work in progress...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
 
+## Usage
 
 Work in progress...
 
@@ -162,12 +158,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] API Creation
 
-  - [ ] creation of first global q_table
-  - [ ] initialization of local q_table
+  - [X] creation of first global q_table
+  - [X] initialization of local q_table
   - [ ] download of global dictionary
   - [ ] update of global dictionary with local data
 - [ ] Game creation
@@ -186,9 +183,8 @@ See the [open issues](https://github.com/aspirina180mg/tic-tAIc-toe/issues) for 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -204,9 +200,8 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -214,6 +209,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Misael García Torres [LINKEDIN](https://www.linkedin.com/in/mgarciat/)- misagtor@gmail.com
@@ -222,18 +218,16 @@ Project Link: [https://github.com/Aspirina180mg/tic-tAIc-toe](https://github.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [None to acknowledge yet...](https://www.google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/Aspirina180mg/tic-tAIc-toe.svg?style=for-the-badge
@@ -248,9 +242,7 @@ Project Link: [https://github.com/Aspirina180mg/tic-tAIc-toe](https://github.com
 [license-url]: https://github.com/Aspirina180mg/tic-tAIc-toe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mgarciat
-
 [product-screenshot]: IMG/screenshot.png
-
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://https://www.python.org/
 [Kivy.org]: https://img.shields.io/badge/Kivy-333?style=for-the-badge&logo=kivy&logoColor=white
